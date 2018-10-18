@@ -1,91 +1,92 @@
-<svg width="535" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+<svg width="415" height="160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
  <defs>
-  <polygon fill="khaki" stroke="black" stroke-width="1px" id="svgEditorShapeDefs"/>
-  <radialGradient r="45%" id="rgrd6-a" gradientUnits="objectBoundingBox" fy="75%" fx="75%" cy="60%" cx="60%">
-   <stop stop-color="#a595d8" offset="0%"/>
-   <stop stop-color="#a595d8" offset="20%"/>
-   <stop stop-color="#8979ba" offset="40%"/>
-   <stop stop-color="#7363a5" offset="60%"/>
-   <stop stop-color="#605091" offset="80%"/>
-   <stop stop-color="#3e3168" offset="100%"/>
+  <polygon id="svgEditorShapeDefs" stroke-width="1px" stroke="black" fill="khaki"/>
+  <radialGradient cx="60%" cy="60%" fx="75%" fy="75%" gradientUnits="objectBoundingBox" id="rgrd6-a" r="45%">
+   <stop offset="0%" stop-color="#a595d8"/>
+   <stop offset="20%" stop-color="#a595d8"/>
+   <stop offset="40%" stop-color="#8979ba"/>
+   <stop offset="60%" stop-color="#7363a5"/>
+   <stop offset="80%" stop-color="#605091"/>
+   <stop offset="100%" stop-color="#3e3168"/>
   </radialGradient>
-  <pattern y="0" x="0" width="10" viewBox="0 0 10 10" patternUnits="userSpaceOnUse" patternTransform="rotate(45) scale(0.4)" id="hatch-blue-45" height="10">
-   <line id="svg_1" stroke="blue" stroke-width="1px" y2="5" y1="5" x2="10" x1="0"/>
+  <pattern height="10" id="hatch-blue-45" patternTransform="rotate(45) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10" width="10" x="0" y="0">
+   <line x1="0" x2="10" y1="5" y2="5" stroke-width="1px" stroke="blue" id="svg_1"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="0 0 10 10" patternUnits="userSpaceOnUse" patternTransform="rotate(45) scale(0.4)" id="hatch-black-45" height="10">
-   <line id="svg_2" stroke="black" stroke-width="1px" y2="5" y1="5" x2="10" x1="0"/>
+  <pattern height="10" id="hatch-black-45" patternTransform="rotate(45) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10" width="10" x="0" y="0">
+   <line x1="0" x2="10" y1="5" y2="5" stroke-width="1px" stroke="black" id="svg_2"/>
   </pattern>
-  <pattern y="0" x="0" width="24" viewBox="0 0 24 10" patternUnits="userSpaceOnUse" patternTransform="rotate(45) scale(0.4)" id="hatch-black-dash-45" height="10">
-   <line id="svg_3" stroke="black" stroke-width="1px" stroke-dasharray="4,4" y2="5" y1="5" x2="24" x1="0"/>
+  <pattern height="10" id="hatch-black-dash-45" patternTransform="rotate(45) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 24 10" width="24" x="0" y="0">
+   <line x1="0" x2="24" y1="5" y2="5" stroke-dasharray="4,4" stroke-width="1px" stroke="black" id="svg_3"/>
   </pattern>
-  <pattern y="0" x="0" width="24" viewBox="0 0 24 10" patternUnits="userSpaceOnUse" patternTransform="rotate(120) scale(0.4)" id="hatch-black-dash-120" height="10">
-   <line id="svg_4" stroke="black" stroke-width="1px" stroke-dasharray="4,4" y2="5" y1="5" x2="24" x1="0"/>
+  <pattern height="10" id="hatch-black-dash-120" patternTransform="rotate(120) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 24 10" width="24" x="0" y="0">
+   <line x1="0" x2="24" y1="5" y2="5" stroke-dasharray="4,4" stroke-width="1px" stroke="black" id="svg_4"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="0 0 10 10" patternUnits="userSpaceOnUse" patternTransform="rotate(120) scale(0.4)" id="hatch-black-120" height="10">
-   <line id="svg_5" stroke="black" stroke-width="1px" y2="5" y1="5" x2="10" x1="0"/>
+  <pattern height="10" id="hatch-black-120" patternTransform="rotate(120) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10" width="10" x="0" y="0">
+   <line x1="0" x2="10" y1="5" y2="5" stroke-width="1px" stroke="black" id="svg_5"/>
   </pattern>
-  <pattern y="0" x="0" width="24" viewBox="0 0 24 10" patternUnits="userSpaceOnUse" patternTransform="rotate(45) scale(0.4)" id="hatch-blue-dash-45" height="10">
-   <line id="svg_6" stroke="blue" stroke-width="1px" stroke-dasharray="4,4" y2="5" y1="5" x2="24" x1="0"/>
+  <pattern height="10" id="hatch-blue-dash-45" patternTransform="rotate(45) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 24 10" width="24" x="0" y="0">
+   <line x1="0" x2="24" y1="5" y2="5" stroke-dasharray="4,4" stroke-width="1px" stroke="blue" id="svg_6"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="0 0 10 10" patternUnits="userSpaceOnUse" patternTransform="rotate(120) scale(0.4)" id="hatch-green-120" height="10">
-   <line id="svg_7" stroke="green" stroke-width="1px" y2="5" y1="5" x2="10" x1="0"/>
+  <pattern height="10" id="hatch-green-120" patternTransform="rotate(120) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10" width="10" x="0" y="0">
+   <line x1="0" x2="10" y1="5" y2="5" stroke-width="1px" stroke="green" id="svg_7"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="-20 -20 168 168" patternUnits="userSpaceOnUse" id="cloud-gray-usr" height="10">
-   <path id="svg_8" fill="black" d="m40,112l0,16l16,-24l-16,0l0,-16l-16,24l16,0z"/>
-   <path id="svg_9" fill="gray" d="m128,60c0,-15.464 -12.536,-28 -28,-28c-0.076,0 -0.15,0.005 -0.226,0.005c-1.987,-18.002 -17.243,-32.005 -35.774,-32.005s-33.787,14.004 -35.774,32.005c-0.076,0 -0.15,-0.005 -0.226,-0.005c-15.464,0 -28,12.536 -28,28s12.536,28 28,28l72,0c15.464,0 28,-12.536 28,-28z"/>
-   <path id="svg_10" fill="black" d="m72,112l16,0l0,16l16,-24l-16,0l0,-16l-16,24z"/>
+  <pattern height="10" id="cloud-gray-usr" patternUnits="userSpaceOnUse" viewBox="-20 -20 168 168" width="10" x="0" y="0">
+   <path d="m40,112l0,16l16,-24l-16,0l0,-16l-16,24l16,0z" fill="black" id="svg_8"/>
+   <path d="m128,60c0,-15.464 -12.536,-28 -28,-28c-0.076,0 -0.15,0.005 -0.226,0.005c-1.987,-18.002 -17.243,-32.005 -35.774,-32.005s-33.787,14.004 -35.774,32.005c-0.076,0 -0.15,-0.005 -0.226,-0.005c-15.464,0 -28,12.536 -28,28s12.536,28 28,28l72,0c15.464,0 28,-12.536 28,-28z" fill="gray" id="svg_9"/>
+   <path d="m72,112l16,0l0,16l16,-24l-16,0l0,-16l-16,24z" fill="black" id="svg_10"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="-20 -20 168 168" patternUnits="userSpaceOnUse" id="wheel-darkblue-usr" height="10">
-   <path id="svg_11" fill="darkblue" d="m3.798,80l12.338,0c1.539,0 2.919,0.931 3.505,2.354c0.006,0.016 0.013,0.031 0.02,0.047c0.586,1.418 0.266,3.045 -0.819,4.131l-8.725,8.725c-1.483,1.484 -1.483,3.888 0,5.371l17.256,17.256c1.483,1.484 3.888,1.484 5.371,0l8.724,-8.725c1.085,-1.085 2.713,-1.404 4.131,-0.819c0.016,0.006 0.031,0.013 0.047,0.019c1.422,0.586 2.354,1.966 2.354,3.505l0,12.338c0,2.098 1.7,3.798 3.798,3.798l24.404,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-12.338c0,-1.539 0.931,-2.919 2.354,-3.505c0.016,-0.006 0.031,-0.013 0.047,-0.019c1.418,-0.586 3.045,-0.266 4.131,0.819l8.724,8.725c1.484,1.484 3.889,1.484 5.371,0l17.256,-17.256c1.484,-1.484 1.484,-3.888 0,-5.371l-8.725,-8.725c-1.085,-1.085 -1.404,-2.713 -0.819,-4.131c0.006,-0.016 0.013,-0.031 0.019,-0.047c0.586,-1.422 1.966,-2.354 3.505,-2.354l12.338,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-24.404c0,-2.098 -1.701,-3.798 -3.798,-3.798l-12.338,0c-1.539,0 -2.919,-0.931 -3.505,-2.354c-0.006,-0.016 -0.013,-0.031 -0.019,-0.047c-0.586,-1.418 -0.266,-3.045 0.819,-4.131l8.725,-8.724c1.484,-1.483 1.484,-3.888 0,-5.372l-17.256,-17.256c-1.483,-1.483 -3.888,-1.483 -5.371,0l-8.724,8.725c-1.085,1.084 -2.713,1.404 -4.131,0.819c-0.016,-0.006 -0.031,-0.013 -0.047,-0.02c-1.422,-0.584 -2.354,-1.965 -2.354,-3.504l0,-12.338c0,-2.098 -1.701,-3.798 -3.798,-3.798l-24.404,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,12.338c0,1.539 -0.931,2.919 -2.354,3.505c-0.016,0.006 -0.031,0.013 -0.047,0.02c-1.418,0.586 -3.045,0.266 -4.131,-0.819l-8.724,-8.725c-1.483,-1.483 -3.889,-1.483 -5.372,0l-17.256,17.256c-1.483,1.483 -1.483,3.888 0,5.371l8.725,8.724c1.084,1.084 1.404,2.713 0.819,4.131c-0.006,0.016 -0.013,0.031 -0.02,0.047c-0.585,1.421 -1.966,2.353 -3.505,2.353l-12.338,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,24.404c0,2.098 1.7,3.798 3.798,3.798l0.001,0.001zm60.202,-48c17.673,0 32,14.327 32,32s-14.327,32 -32,32s-32,-14.327 -32,-32s14.327,-32 32,-32z"/>
-   <path id="svg_12" fill="darkblue" d="m72,64c0,4.418 -3.582,8 -8,8s-8,-3.582 -8,-8c0,-4.418 3.582,-8 8,-8s8,3.582 8,8z"/>
+  <pattern height="10" id="wheel-darkblue-usr" patternUnits="userSpaceOnUse" viewBox="-20 -20 168 168" width="10" x="0" y="0">
+   <path d="m3.798,80l12.338,0c1.539,0 2.919,0.931 3.505,2.354c0.006,0.016 0.013,0.031 0.02,0.047c0.586,1.418 0.266,3.045 -0.819,4.131l-8.725,8.725c-1.483,1.484 -1.483,3.888 0,5.371l17.256,17.256c1.483,1.484 3.888,1.484 5.371,0l8.724,-8.725c1.085,-1.085 2.713,-1.404 4.131,-0.819c0.016,0.006 0.031,0.013 0.047,0.019c1.422,0.586 2.354,1.966 2.354,3.505l0,12.338c0,2.098 1.7,3.798 3.798,3.798l24.404,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-12.338c0,-1.539 0.931,-2.919 2.354,-3.505c0.016,-0.006 0.031,-0.013 0.047,-0.019c1.418,-0.586 3.045,-0.266 4.131,0.819l8.724,8.725c1.484,1.484 3.889,1.484 5.371,0l17.256,-17.256c1.484,-1.484 1.484,-3.888 0,-5.371l-8.725,-8.725c-1.085,-1.085 -1.404,-2.713 -0.819,-4.131c0.006,-0.016 0.013,-0.031 0.019,-0.047c0.586,-1.422 1.966,-2.354 3.505,-2.354l12.338,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-24.404c0,-2.098 -1.701,-3.798 -3.798,-3.798l-12.338,0c-1.539,0 -2.919,-0.931 -3.505,-2.354c-0.006,-0.016 -0.013,-0.031 -0.019,-0.047c-0.586,-1.418 -0.266,-3.045 0.819,-4.131l8.725,-8.724c1.484,-1.483 1.484,-3.888 0,-5.372l-17.256,-17.256c-1.483,-1.483 -3.888,-1.483 -5.371,0l-8.724,8.725c-1.085,1.084 -2.713,1.404 -4.131,0.819c-0.016,-0.006 -0.031,-0.013 -0.047,-0.02c-1.422,-0.584 -2.354,-1.965 -2.354,-3.504l0,-12.338c0,-2.098 -1.701,-3.798 -3.798,-3.798l-24.404,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,12.338c0,1.539 -0.931,2.919 -2.354,3.505c-0.016,0.006 -0.031,0.013 -0.047,0.02c-1.418,0.586 -3.045,0.266 -4.131,-0.819l-8.724,-8.725c-1.483,-1.483 -3.889,-1.483 -5.372,0l-17.256,17.256c-1.483,1.483 -1.483,3.888 0,5.371l8.725,8.724c1.084,1.084 1.404,2.713 0.819,4.131c-0.006,0.016 -0.013,0.031 -0.02,0.047c-0.585,1.421 -1.966,2.353 -3.505,2.353l-12.338,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,24.404c0,2.098 1.7,3.798 3.798,3.798l0.001,0.001zm60.202,-48c17.673,0 32,14.327 32,32s-14.327,32 -32,32s-32,-14.327 -32,-32s14.327,-32 32,-32z" fill="darkblue" id="svg_11"/>
+   <path d="m72,64c0,4.418 -3.582,8 -8,8s-8,-3.582 -8,-8c0,-4.418 3.582,-8 8,-8s8,3.582 8,8z" fill="darkblue" id="svg_12"/>
   </pattern>
-  <pattern y="0%" x="0%" width="20%" viewBox="-20 -20 168 168" patternUnits="objectBoundingBox" id="wheel-darkblue-obox" height="20%">
-   <path id="svg_13" fill="darkblue" d="m3.798,80l12.338,0c1.539,0 2.919,0.931 3.505,2.354c0.006,0.016 0.013,0.031 0.02,0.047c0.586,1.418 0.266,3.045 -0.819,4.131l-8.725,8.725c-1.483,1.484 -1.483,3.888 0,5.371l17.256,17.256c1.483,1.484 3.888,1.484 5.371,0l8.724,-8.725c1.085,-1.085 2.713,-1.404 4.131,-0.819c0.016,0.006 0.031,0.013 0.047,0.019c1.422,0.586 2.354,1.966 2.354,3.505l0,12.338c0,2.098 1.7,3.798 3.798,3.798l24.404,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-12.338c0,-1.539 0.931,-2.919 2.354,-3.505c0.016,-0.006 0.031,-0.013 0.047,-0.019c1.418,-0.586 3.045,-0.266 4.131,0.819l8.724,8.725c1.484,1.484 3.889,1.484 5.371,0l17.256,-17.256c1.484,-1.484 1.484,-3.888 0,-5.371l-8.725,-8.725c-1.085,-1.085 -1.404,-2.713 -0.819,-4.131c0.006,-0.016 0.013,-0.031 0.019,-0.047c0.586,-1.422 1.966,-2.354 3.505,-2.354l12.338,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-24.404c0,-2.098 -1.701,-3.798 -3.798,-3.798l-12.338,0c-1.539,0 -2.919,-0.931 -3.505,-2.354c-0.006,-0.016 -0.013,-0.031 -0.019,-0.047c-0.586,-1.418 -0.266,-3.045 0.819,-4.131l8.725,-8.724c1.484,-1.483 1.484,-3.888 0,-5.372l-17.256,-17.256c-1.483,-1.483 -3.888,-1.483 -5.371,0l-8.724,8.725c-1.085,1.084 -2.713,1.404 -4.131,0.819c-0.016,-0.006 -0.031,-0.013 -0.047,-0.02c-1.422,-0.584 -2.354,-1.965 -2.354,-3.504l0,-12.338c0,-2.098 -1.701,-3.798 -3.798,-3.798l-24.404,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,12.338c0,1.539 -0.931,2.919 -2.354,3.505c-0.016,0.006 -0.031,0.013 -0.047,0.02c-1.418,0.586 -3.045,0.266 -4.131,-0.819l-8.724,-8.725c-1.483,-1.483 -3.889,-1.483 -5.372,0l-17.256,17.256c-1.483,1.483 -1.483,3.888 0,5.371l8.725,8.724c1.084,1.084 1.404,2.713 0.819,4.131c-0.006,0.016 -0.013,0.031 -0.02,0.047c-0.585,1.421 -1.966,2.353 -3.505,2.353l-12.338,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,24.404c0,2.098 1.7,3.798 3.798,3.798l0.001,0.001zm60.202,-48c17.673,0 32,14.327 32,32s-14.327,32 -32,32s-32,-14.327 -32,-32s14.327,-32 32,-32z"/>
-   <path id="svg_14" fill="darkblue" d="m72,64c0,4.418 -3.582,8 -8,8s-8,-3.582 -8,-8c0,-4.418 3.582,-8 8,-8s8,3.582 8,8z"/>
+  <pattern height="20%" id="wheel-darkblue-obox" patternUnits="objectBoundingBox" viewBox="-20 -20 168 168" width="20%" x="0%" y="0%">
+   <path d="m3.798,80l12.338,0c1.539,0 2.919,0.931 3.505,2.354c0.006,0.016 0.013,0.031 0.02,0.047c0.586,1.418 0.266,3.045 -0.819,4.131l-8.725,8.725c-1.483,1.484 -1.483,3.888 0,5.371l17.256,17.256c1.483,1.484 3.888,1.484 5.371,0l8.724,-8.725c1.085,-1.085 2.713,-1.404 4.131,-0.819c0.016,0.006 0.031,0.013 0.047,0.019c1.422,0.586 2.354,1.966 2.354,3.505l0,12.338c0,2.098 1.7,3.798 3.798,3.798l24.404,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-12.338c0,-1.539 0.931,-2.919 2.354,-3.505c0.016,-0.006 0.031,-0.013 0.047,-0.019c1.418,-0.586 3.045,-0.266 4.131,0.819l8.724,8.725c1.484,1.484 3.889,1.484 5.371,0l17.256,-17.256c1.484,-1.484 1.484,-3.888 0,-5.371l-8.725,-8.725c-1.085,-1.085 -1.404,-2.713 -0.819,-4.131c0.006,-0.016 0.013,-0.031 0.019,-0.047c0.586,-1.422 1.966,-2.354 3.505,-2.354l12.338,0c2.098,0 3.798,-1.701 3.798,-3.798l0,-24.404c0,-2.098 -1.701,-3.798 -3.798,-3.798l-12.338,0c-1.539,0 -2.919,-0.931 -3.505,-2.354c-0.006,-0.016 -0.013,-0.031 -0.019,-0.047c-0.586,-1.418 -0.266,-3.045 0.819,-4.131l8.725,-8.724c1.484,-1.483 1.484,-3.888 0,-5.372l-17.256,-17.256c-1.483,-1.483 -3.888,-1.483 -5.371,0l-8.724,8.725c-1.085,1.084 -2.713,1.404 -4.131,0.819c-0.016,-0.006 -0.031,-0.013 -0.047,-0.02c-1.422,-0.584 -2.354,-1.965 -2.354,-3.504l0,-12.338c0,-2.098 -1.701,-3.798 -3.798,-3.798l-24.404,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,12.338c0,1.539 -0.931,2.919 -2.354,3.505c-0.016,0.006 -0.031,0.013 -0.047,0.02c-1.418,0.586 -3.045,0.266 -4.131,-0.819l-8.724,-8.725c-1.483,-1.483 -3.889,-1.483 -5.372,0l-17.256,17.256c-1.483,1.483 -1.483,3.888 0,5.371l8.725,8.724c1.084,1.084 1.404,2.713 0.819,4.131c-0.006,0.016 -0.013,0.031 -0.02,0.047c-0.585,1.421 -1.966,2.353 -3.505,2.353l-12.338,0c-2.098,0 -3.798,1.7 -3.798,3.798l0,24.404c0,2.098 1.7,3.798 3.798,3.798l0.001,0.001zm60.202,-48c17.673,0 32,14.327 32,32s-14.327,32 -32,32s-32,-14.327 -32,-32s14.327,-32 32,-32z" fill="darkblue" id="svg_13"/>
+   <path d="m72,64c0,4.418 -3.582,8 -8,8s-8,-3.582 -8,-8c0,-4.418 3.582,-8 8,-8s8,3.582 8,8z" fill="darkblue" id="svg_14"/>
   </pattern>
-  <pattern y="0%" x="0%" width="20%" viewBox="-20 -20 168 168" patternUnits="objectBoundingBox" id="house-sienna-obox" height="20%">
-   <path id="svg_15" fill="sienna" d="m9.778,128l108.445,0c5.4,0 9.778,-4.378 9.778,-9.778l0,-84.445c0,-5.4 -4.378,-9.778 -9.778,-9.778l-46.222,0l0,-14.222c0,-5.4 -4.378,-9.778 -9.778,-9.778l-52.444,0c-5.4,0 -9.778,4.378 -9.778,9.778l0,108.445c0,5.4 4.378,9.778 9.778,9.778l-0.001,0zm94.222,-88l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-24,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16z"/>
+  <pattern height="20%" id="house-sienna-obox" patternUnits="objectBoundingBox" viewBox="-20 -20 168 168" width="20%" x="0%" y="0%">
+   <path d="m9.778,128l108.445,0c5.4,0 9.778,-4.378 9.778,-9.778l0,-84.445c0,-5.4 -4.378,-9.778 -9.778,-9.778l-46.222,0l0,-14.222c0,-5.4 -4.378,-9.778 -9.778,-9.778l-52.444,0c-5.4,0 -9.778,4.378 -9.778,9.778l0,108.445c0,5.4 4.378,9.778 9.778,9.778l-0.001,0zm94.222,-88l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-24,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm-16,-48l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16zm0,24l8,0l0,16l-8,0l0,-16z" fill="sienna" id="svg_15"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="-20 -20 168 168" patternUnits="userSpaceOnUse" id="meal-steelblue-usr" height="10">
-   <path id="svg_16" fill="steelblue" d="m20,0c-2.209,0 -4,1.791 -4,4l0,48c0,2.209 1.791,4 4,4l32,0c2.209,0 4,-1.791 4,-4l0,-48c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4z"/>
-   <path id="svg_17" fill="steelblue" d="m36,128c6.627,0 12,-5.373 12,-12l0,-52l-24,0l0,52c0,6.627 5.372,12 12,12z"/>
-   <path id="svg_18" fill="steelblue" d="m80,116c0,6.627 5.373,12 12,12s12,-5.373 12,-12l0,-36l-24,0l0,36z"/>
-   <path id="svg_19" fill="steelblue" d="m80,0l0,72l32,0c0,-72 -32,-72 -32,-72z"/>
+  <pattern height="10" id="meal-steelblue-usr" patternUnits="userSpaceOnUse" viewBox="-20 -20 168 168" width="10" x="0" y="0">
+   <path d="m20,0c-2.209,0 -4,1.791 -4,4l0,48c0,2.209 1.791,4 4,4l32,0c2.209,0 4,-1.791 4,-4l0,-48c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4z" fill="steelblue" id="svg_16"/>
+   <path d="m36,128c6.627,0 12,-5.373 12,-12l0,-52l-24,0l0,52c0,6.627 5.372,12 12,12z" fill="steelblue" id="svg_17"/>
+   <path d="m80,116c0,6.627 5.373,12 12,12s12,-5.373 12,-12l0,-36l-24,0l0,36z" fill="steelblue" id="svg_18"/>
+   <path d="m80,0l0,72l32,0c0,-72 -32,-72 -32,-72z" fill="steelblue" id="svg_19"/>
   </pattern>
-  <pattern y="0%" x="0%" width="20%" viewBox="-20 -20 168 168" patternUnits="objectBoundingBox" id="meal-steelblue-obox" height="20%">
-   <path id="svg_20" fill="steelblue" d="m20,0c-2.209,0 -4,1.791 -4,4l0,48c0,2.209 1.791,4 4,4l32,0c2.209,0 4,-1.791 4,-4l0,-48c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4z"/>
-   <path id="svg_21" fill="steelblue" d="m36,128c6.627,0 12,-5.373 12,-12l0,-52l-24,0l0,52c0,6.627 5.372,12 12,12z"/>
-   <path id="svg_22" fill="steelblue" d="m80,116c0,6.627 5.373,12 12,12s12,-5.373 12,-12l0,-36l-24,0l0,36z"/>
-   <path id="svg_23" fill="steelblue" d="m80,0l0,72l32,0c0,-72 -32,-72 -32,-72z"/>
+  <pattern height="20%" id="meal-steelblue-obox" patternUnits="objectBoundingBox" viewBox="-20 -20 168 168" width="20%" x="0%" y="0%">
+   <path d="m20,0c-2.209,0 -4,1.791 -4,4l0,48c0,2.209 1.791,4 4,4l32,0c2.209,0 4,-1.791 4,-4l0,-48c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4s-4,1.791 -4,4l0,44l-8,0l0,-44c0,-2.209 -1.791,-4 -4,-4z" fill="steelblue" id="svg_20"/>
+   <path d="m36,128c6.627,0 12,-5.373 12,-12l0,-52l-24,0l0,52c0,6.627 5.372,12 12,12z" fill="steelblue" id="svg_21"/>
+   <path d="m80,116c0,6.627 5.373,12 12,12s12,-5.373 12,-12l0,-36l-24,0l0,36z" fill="steelblue" id="svg_22"/>
+   <path d="m80,0l0,72l32,0c0,-72 -32,-72 -32,-72z" fill="steelblue" id="svg_23"/>
   </pattern>
-  <pattern y="0%" x="0%" width="20%" viewBox="-20 -20 168 168" patternUnits="objectBoundingBox" id="star-navy-obox" height="20%">
-   <path id="svg_24" fill="navy" d="m63.999,0l-20.001,40.02l-44,8l32,28l-8,44l40.001,-20l39.999,20l-7.999,-44l32.001,-28l-44.002,-7.946l-19.999,-40.074z"/>
+  <pattern height="20%" id="star-navy-obox" patternUnits="objectBoundingBox" viewBox="-20 -20 168 168" width="20%" x="0%" y="0%">
+   <path d="m63.999,0l-20.001,40.02l-44,8l32,28l-8,44l40.001,-20l39.999,20l-7.999,-44l32.001,-28l-44.002,-7.946l-19.999,-40.074z" fill="navy" id="svg_24"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="-20 -20 168 168" patternUnits="userSpaceOnUse" id="star-navy-usr" height="10">
-   <path id="svg_25" fill="navy" d="m63.999,0l-20.001,40.02l-44,8l32,28l-8,44l40.001,-20l39.999,20l-7.999,-44l32.001,-28l-44.002,-7.946l-19.999,-40.074z"/>
+  <pattern height="10" id="star-navy-usr" patternUnits="userSpaceOnUse" viewBox="-20 -20 168 168" width="10" x="0" y="0">
+   <path d="m63.999,0l-20.001,40.02l-44,8l32,28l-8,44l40.001,-20l39.999,20l-7.999,-44l32.001,-28l-44.002,-7.946l-19.999,-40.074z" fill="navy" id="svg_25"/>
   </pattern>
-  <pattern y="0" x="0" width="24" viewBox="0 0 24 10" patternUnits="userSpaceOnUse" patternTransform="rotate(120) scale(0.4)" id="hatch-blue-dash-120" height="10">
-   <line id="svg_26" stroke="blue" stroke-width="1px" stroke-dasharray="4,4" y2="5" y1="5" x2="24" x1="0"/>
+  <pattern height="10" id="hatch-blue-dash-120" patternTransform="rotate(120) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 24 10" width="24" x="0" y="0">
+   <line x1="0" x2="24" y1="5" y2="5" stroke-dasharray="4,4" stroke-width="1px" stroke="blue" id="svg_26"/>
   </pattern>
-  <pattern y="0" x="0" width="10" viewBox="0 0 10 10" patternUnits="userSpaceOnUse" patternTransform="rotate(120) scale(0.4)" id="hatch-blue-120" height="10">
-   <line id="svg_27" stroke="blue" stroke-width="1px" y2="5" y1="5" x2="10" x1="0"/>
+  <pattern height="10" id="hatch-blue-120" patternTransform="rotate(120) scale(0.4)" patternUnits="userSpaceOnUse" viewBox="0 0 10 10" width="10" x="0" y="0">
+   <line x1="0" x2="10" y1="5" y2="5" stroke-width="1px" stroke="blue" id="svg_27"/>
   </pattern>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_30_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
  </defs>
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="162" width="537" y="-1" x="-1"/>
+  <rect x="-1" y="-1" width="417" height="162" id="canvas_background" fill="none"/>
  </g>
  <g>
   <title>Layer 1</title>
-  <rect stroke="null" fill=" none" height="155.999999" width="529.999979" y="2.000014" x="2.000032" id="svgEditorBackground"/>
-  <circle fill="none" stroke="blue" stroke-width="1px" fill-opacity="0.5" stroke-linecap="square" stroke-opacity="0.4" r="76.269096" cy="80" cx="79" id="e1_circle"/>
-  <g fill="khaki" stroke-width="1px" id="e2_shape" transform="matrix(0.595072,-0.00619867,0.00619867,0.595072,261.49,273.8) ">
-   <path id="svg_28" fill="url(#hatch-blue-dash-45)" d="m-342.766001,-395.304921c-5.4,0 -9.778,4.378 -9.778,9.778l0,108.445c0,5.4 4.378,9.778 9.778,9.778l84.445,0c5.4,0 9.778,-4.378 9.778,-9.778l0,-86.222l-22.222,0c-5.4,0 -9.778,-4.378 -9.778,-9.778l0,-22.222l-62.222,0l-0.001,-0.001z"/>
-   <path id="svg_29" fill="url(#rgrd6-a)" fill-opacity="0.3" d="m-272.544001,-395.304921l0,24l24,0l-24,-24z"/>
+  <rect stroke="null" id="svgEditorBackground" x="2.000032" y="2.000014" width="414.999994" height="155.999999" fill=" none"/>
+  <circle id="e1_circle" cx="79" cy="80" r="76.269096" stroke-opacity="0.4" stroke-linecap="square" fill-opacity="0.5" stroke-width="1px" stroke="blue" fill="none"/>
+  <g transform="matrix(0.595072,-0.00619867,0.00619867,0.595072,261.49,273.8) " id="e2_shape" stroke-width="1px" fill="khaki">
+   <path d="m-342.766,-395.30492c-5.4,0 -9.778,4.378 -9.778,9.778l0,108.445c0,5.4 4.378,9.778 9.778,9.778l84.445,0c5.4,0 9.778,-4.378 9.778,-9.778l0,-86.222l-22.222,0c-5.4,0 -9.778,-4.378 -9.778,-9.778l0,-22.222l-62.222,0l-0.001,-0.001z" fill="url(#hatch-blue-dash-45)" id="svg_28"/>
+   <path d="m-272.544,-395.30492l0,24l24,0l-24,-24z" fill-opacity="0.3" fill="url(#rgrd6-a)" id="svg_29"/>
   </g>
-  <text fill="navy" font-family="Arial" font-size="20px" transform="matrix(2.4879,0,0,2.4879,-609.799,-328.902) " id="e3_texte" y="163.983718" x="311.767845">
-   <tspan id="svg_30" x="311.767845">Curriculum Vitae</tspan>
-  </text>
-  <text fill="black" font-family="Trebuchet MS" font-size="20px" id="e4_texte" y="107.939" x="176.789">My Life in One Sheet</text>
+  <text x="176.789" y="107.939" id="e4_texte" font-size="20px" font-family="Trebuchet MS" fill="black">My Life in One Sheet</text>
+  <text filter="url(#svg_30_blur)" font-weight="normal" stroke="#000" transform="matrix(19.856559414136083,0,0,12.393471394639594,-7624.418891122753,-954.7203285274137) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="5" id="svg_30" y="83.909078" x="392.155104" stroke-width="0.2" fill="navy">JMPC</text>
  </g>
 </svg>
